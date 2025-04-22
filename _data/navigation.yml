@@ -25,7 +25,7 @@ main:
   - title: "Award"
     url: /portfolio/
 
-    - title: "Teaching"
+  - title: "Teaching"
     url: /teaching/    
     
   # - title: "CV"
