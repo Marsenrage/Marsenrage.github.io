@@ -25,9 +25,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Hui Li"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. candidate
-   Department of Computer Science
-    University of Alabama"
+  bio              : "Ph.D. candidate, Department of Computer Science, University of Alabama"
   location         : #"Tuscaloosa, AL"
   employer         : #"The University of Alabama"
   uri              : # URL
