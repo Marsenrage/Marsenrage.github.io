@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Hui Li"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Hui Li"
 description              : &description "personal description"
