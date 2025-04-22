@@ -6,6 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+Download up-to-date Curriculum Vitae [PDF]
 
 
