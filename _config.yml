@@ -23,9 +23,9 @@ repository               : "Marsenrage/Marsenrage.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Hui"
+  name             : "Hui Li"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. candidate, Department of Computer Science, University of Alabama"
+  bio              : "Ph.D. candidate\ Department of Computer Science\ University of Alabama"
   location         : #"Tuscaloosa, AL"
   employer         : #"The University of Alabama"
   uri              : # URL
