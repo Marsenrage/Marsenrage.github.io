@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Tuscaloosa, AL"
-  employer         : "The University of Alabama"
+  employer         : #"The University of Alabama"
   uri              : # URL
   email            : "hli98@crimson.ua.edu" 
 
