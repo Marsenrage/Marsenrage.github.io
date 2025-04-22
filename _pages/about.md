@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**P.h.D candidate, Computer Science**
+**P.h.D candidate, Computer Science**\
 **University of Alabama**
 
 About Me
