@@ -288,7 +288,7 @@ defaults:
   # _award
   - scope:
       path: ""
-      type: award
+      type: awards
     values:
       layout: single
       author_profile: true
@@ -297,7 +297,7 @@ defaults:
   # _dataset
   - scope:
       path: ""
-      type: dataset
+      type: datasets
     values:
       layout: single
       author_profile: true
