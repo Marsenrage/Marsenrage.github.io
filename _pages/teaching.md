@@ -14,6 +14,6 @@ author_profile: true
 
 - Dang Tran, 2021-2023, Undergraduate at Wichia State Uinversity → PhD at University of Alabama  
 - Liqiao Zhu, 2021, MS at Wichia State Uinversity → Reliability Engineer at Antwork Technology
-- Bharath Rao,2020, MS at Wichia State Uinversity → Senior engineer at Spirit AeroSystems  
+- Bharath Rao, 2020, MS at Wichia State Uinversity → Senior engineer at Spirit AeroSystems  
 
  
