@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Download up-to-date Curriculum Vitae [<a href="files/Hui_CV.pdf" download>PDF</a>]
+Download up-to-date Curriculum Vitae [<a href="/files/Hui_CV.pdf" download>PDF</a>]
 
 
 
