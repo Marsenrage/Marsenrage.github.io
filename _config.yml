@@ -31,6 +31,15 @@ author:
   uri              : # URL
   email            : "hli98@crimson.ua.edu" 
 
+  # Repositories and software development
+  bitbucket        : # Username - Update with your username on the site
+  codepen          : # Username
+  dribbble         : # Username
+  github           : "Marsenrage"
+  kaggle           : # Username  
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")   
+
+
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=hgdrfuYAAAAJ&hl=en"
@@ -41,13 +50,7 @@ author:
   researchgate     : # URL
   scopus           : # URL
 
-  # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "Marsenrage"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+ 
 
   # Social media
   bluesky          : #"bsky.app" # Replace this with you Bluesky username
