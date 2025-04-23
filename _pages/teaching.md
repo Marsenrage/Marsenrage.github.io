@@ -4,6 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+## Courses
 
 - Advanced AI in Robotics, Spring 2019, Wichita State University  
 - AI in Robotics, Fall 2018, Wichita State University  
