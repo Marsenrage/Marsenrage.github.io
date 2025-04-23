@@ -6,12 +6,11 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Download up-to-date Curriculum Vitae [PDF]
+Download up-to-date Curriculum Vitae [<a href="files/Hui_CV.pdf" download>PDF</a>]
 
 <!-- Embed the PDF -->
 <embed src="files/Hui_CV.pdf" width="100%" height="600px" type="application/pdf">
 
-<!-- Provide a download link -->
-<p><a href="path/to/your.pdf" download>Download PDF</a></p>
+
 
 
