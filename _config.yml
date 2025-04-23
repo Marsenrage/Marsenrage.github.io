@@ -39,19 +39,6 @@ author:
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")   
 
-
-  # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=hgdrfuYAAAAJ&hl=en"
-  impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-1591-7327"
-  semantic         : # URL
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-
- 
-
   # Social media
   bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
@@ -77,6 +64,18 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
+
+
+  # Academic websites
+  arxiv            : # URL - Update with the correct link to your profile
+  orcid            : "https://orcid.org/0000-0002-1591-7327"
+  googlescholar    : "https://scholar.google.com/citations?user=hgdrfuYAAAAJ&hl=en"
+  impactstory      : # URL
+  semantic         : # URL
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : # URL
+  scopus           : # URL
+
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
