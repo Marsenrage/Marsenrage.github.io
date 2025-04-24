@@ -21,8 +21,8 @@ Throughout my Ph.D. journey, I have made significant contributions to the field 
     <td style="border: none; vertical-align: top;">
       <strong>Grasp Intention Interpretation in Object Handover for Human-Robot Teaming</strong><br>
       **Hui Li**, Akhlak Uz Zaman, and Hongsheng He <br>
-      International Conference on Social Robotics (ICSR 2024)  <br>
-      Visit <br>
+      International Conference on Social Robotics (ICSR 2024)<br>      
+      Visit the [<a href="/files/icsr2023.pdf" download>Paper</a>] for more information. <br>
     </td>
   </tr>
 </table>
