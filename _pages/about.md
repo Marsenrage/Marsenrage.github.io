@@ -21,7 +21,7 @@ Throughout my Ph.D. journey, I have made significant contributions to the field 
     <td style="border: none; vertical-align: top; font-size: 16px;">
       <strong>Grasp Intention Interpretation in Object Handover for Human-Robot Teaming</strong><br>
       <strong>Hui Li</strong>, Akhlak Uz Zaman, and Hongsheng He <br>
-      International Conference on Social Robotics (ICSR 2024)<br>      
+      International Conference on Social Robotics (<strong>ICSR</strong> 2024)<br>      
       Visit the [<a href="/files/icsr2023.pdf" download>Paper</a>] for more information. <br>
     </td>
   </tr>
@@ -33,7 +33,7 @@ Throughout my Ph.D. journey, I have made significant contributions to the field 
     <td style="border: none; vertical-align: top; font-size: 16px;">
       <strong>Knowledge Augmentation and Task Planning in Large Language Models for Dexterous Grasping</strong><br>
       <strong>Hui Li</strong>, Dang Tran, Xinyu Zhang, and Hongsheng He <br>
-      IEEE-RAS International Conference on Humanoid Robots (Humanoids 2023)<br>      
+      IEEE-RAS International Conference on Humanoid Robots (<strong>Humanoids</strong> 2023)<br>      
       Visit the [<a href="/files/humanoid.pdf" download>Paper</a>] for more information. <br>
     </td>
   </tr>
@@ -47,7 +47,7 @@ Throughout my Ph.D. journey, I have made significant contributions to the field 
       <strong>Learning Task-Oriented Dexterous Grasping from Human Knowledge
       </strong><br>
       <strong>Hui Li</strong>, Yinlong Zhang, Yanan Li, and Hongsheng He <br>
-      IEEE International Conference on Robotics and Automation (ICRA 2021)<br>      
+      IEEE International Conference on Robotics and Automation (<strong>ICRA</strong> 2021)<br>      
       Visit the [<a href="/files/ICRA2021.pdf" download>Paper</a>] for more information. <br>
     </td>
   </tr>
@@ -61,7 +61,7 @@ Throughout my Ph.D. journey, I have made significant contributions to the field 
       <strong>MagicHand: Context-Aware Dexterous Grasping Using an Anthropomorphic Robotic Hand
       </strong><br>
       <strong>Hui Li</strong>, Jindong Tan and Hongsheng He<br>
-      IEEE International Conference on Robotics and Automation (ICRA 2020)<br>      
+      IEEE International Conference on Robotics and Automation (<strong>ICRA</strong> 2020)<br>      
       Visit the [<a href="/files/ICRA2020.pdf" download>Paper</a>] for more information. <br>
     </td>
   </tr>
