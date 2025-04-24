@@ -18,7 +18,7 @@ Throughout my Ph.D. journey, I have made significant contributions to the field 
     <td width="160">
       <img src="/images/handover.gif" alt="Handover" width="150">
     </td>
-    <td style="border: none;">
+     <td style="border: none; vertical-align: top;">
       <strong>Task-Oriented Grasping with Contextual Reward Learning</strong><br>
       This work introduces a grasping strategy that adapts to task context using stage-wise reinforcement learning.  
       The GIF shows a successful handover using learned reward structures.
