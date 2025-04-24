@@ -62,6 +62,20 @@ author_profile: true
 
   <tr>
     <td width="210">
+      <img src="/images/robio.jpg" alt="robio" width="200">
+    </td>
+    <td style="border: none; vertical-align: top; font-size: 16px;">
+      <strong>Object Recall from Natural-Language Descriptions for Autonomous Robotic Grasping
+      </strong><br>
+      Achyutha Bharath Rao, <strong>Hui Li</strong>, and Hongsheng He<br>
+      IEEE International Conference on Robotics and Biomimetics (ROBIO 2019)<br>      
+      Visit the [<a href="/files/ROBIO.pdf" download>Paper</a>] for more information. <br>
+    </td>
+  </tr>
+
+
+  <tr>
+    <td width="210">
       <img src="/images/icsr18.jpg" alt="icsr18" width="200">
     </td>
     <td style="border: none; vertical-align: top; font-size: 16px;">
@@ -69,13 +83,9 @@ author_profile: true
       </strong><br>
       <strong>Hui Li</strong>, Yimesker Yihun, and Hongsheng He<br>
       International Conference on Social Robotics (ICSR 2018)<br>      
-      Visit the [<a href="/files/ICRA2018.pdf" download>Paper</a>] for more information. <br>
+      Visit the [<a href="/files/ICSR2018.pdf" download>Paper</a>] for more information. <br>
     </td>
   </tr>
-
-
-
-
 
 </table>
 
