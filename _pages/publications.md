@@ -36,7 +36,7 @@ author_profile: true
 <table style="border-collapse: collapse; border: none;">
   <tr>
     <td width="210">
-      <img src="/images/dang_icsr2023.jpg" alt="Handover" width="200">
+      <img src="/images/tran_icsr2023.jpg" alt="Handover" width="200">
     </td>
     <td style="border: none; vertical-align: top; font-size: 16px;">
       <strong>AI planning from natural-language instructions for trustworthy human-robot communication.</strong><br>
