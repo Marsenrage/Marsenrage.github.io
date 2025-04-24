@@ -28,6 +28,19 @@ Throughout my Ph.D. journey, I have made significant contributions to the field 
 
   <tr>
     <td width="210">
+      <img src="/images/humanoid.jpg" alt="Handover" width="200">
+    </td>
+    <td style="border: none; vertical-align: top; font-size: 16px;">
+      <strong>Knowledge Augmentation and Task Planning in Large Language Models for Dexterous Grasping</strong><br>
+      <strong>Hui Li</strong>, Dang Tran, Xinyu Zhang, and Hongsheng He <br>
+      IEEE-RAS International Conference on Humanoid Robots (Humanoids 2023)<br>      
+      Visit the [<a href="/files/humanoid.pdf" download>Paper</a>] for more information. <br>
+    </td>
+  </tr>
+
+
+  <tr>
+    <td width="210">
       <img src="/images/icra2021.gif" alt="icra2021" width="200">
     </td>
     <td style="border: none; vertical-align: top; font-size: 16px;">
@@ -38,6 +51,7 @@ Throughout my Ph.D. journey, I have made significant contributions to the field 
       Visit the [<a href="/files/ICRA2021.pdf" download>Paper</a>] for more information. <br>
     </td>
   </tr>
+
 
   <tr>
     <td width="210">
