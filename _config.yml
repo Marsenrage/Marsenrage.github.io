@@ -22,7 +22,7 @@ repository               : "Marsenrage/Marsenrage.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile1.jpg"
+  avatar           : "profile.jpg"
   name             : "Hui Li"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. candidate, Department of Computer Science, University of Alabama"
