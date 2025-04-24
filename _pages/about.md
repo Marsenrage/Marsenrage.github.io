@@ -15,13 +15,14 @@ Throughout my Ph.D. journey, I have made significant contributions to the field 
 
 <table style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="160" style="border: none;">
+    <td width="160">
       <img src="/images/handover.gif" alt="Handover" width="150">
     </td>
     <td style="border: none; vertical-align: top;">
-      <strong>Task-Oriented Grasping with Contextual Reward Learning</strong><br>
-      This work introduces a grasping strategy that adapts to task context using stage-wise reinforcement learning.  
-      The GIF shows a successful handover using learned reward structures.
+      <strong>Grasp Intention Interpretation in Object Handover for Human-Robot Teaming</strong><br>
+      **Hui Li**, Akhlak Uz Zaman, and Hongsheng He <br>
+      International Conference on Social Robotics (ICSR 2024)  <br>
+      Visit <br>
     </td>
   </tr>
 </table>
