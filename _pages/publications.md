@@ -16,7 +16,19 @@ author_profile: true
       <strong>Grasp Intention Interpretation in Object Handover for Human-Robot Teaming</strong><br>
       <strong>Hui Li</strong>, Akhlak Uz Zaman, and Hongsheng He <br>
       International Conference on Social Robotics (<strong>ICSR</strong> 2024)<br>      
-      Visit the [<a href="/files/icsr2023.pdf" download>Paper</a>] for more information. <br>
+      Visit the [<a href="/files/icsr2024.pdf" download>Paper</a>] for more information. <br>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="210">
+      <img src="/images/a_icsr2024.jpg" alt="Handover" width="200">
+    </td>
+    <td style="border: none; vertical-align: top; font-size: 16px;">
+      <strong>Omnisurface: Common Reality for Intuitive Human-Robot Collaboration</strong><br>
+      Akhlak Uz Zaman, <strong>Hui Li</strong>, Fujian Yan, Yinlong Zhang, and Hongsheng He <br>
+      International Conference on Social Robotics (<strong>ICSR</strong> 2024)<br>      
+      Visit the [<a href="/files/a_icsr2024.pdf" download>Paper</a>] for more information. <br>
     </td>
   </tr>
 
@@ -46,18 +58,6 @@ author_profile: true
     </td>
   </tr>
 
-
-
-
-
-
-
-
-
-
-
-
-
   <tr>
     <td width="210">
       <img src="/images/icra2021.gif" alt="icra2021" width="200">
@@ -70,7 +70,6 @@ author_profile: true
       Visit the [<a href="/files/ICRA2021.pdf" download>Paper</a>] for more information. <br>
     </td>
   </tr>
-
 
   <tr>
     <td width="210">
@@ -98,7 +97,6 @@ author_profile: true
     </td>
   </tr>
 
-
   <tr>
     <td width="210">
       <img src="/images/icsr18.jpg" alt="icsr18" width="200">
@@ -111,7 +109,6 @@ author_profile: true
       Visit the [<a href="/files/ICSR2018.pdf" download>Paper</a>] for more information. <br>
     </td>
   </tr>
-
 </table>
 
 
