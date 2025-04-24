@@ -15,7 +15,7 @@ Throughout my Ph.D. journey, I have made significant contributions to the field 
 
 <table style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="160">
+    <td width="200">
       <img src="/images/handover.gif" alt="Handover" width="150">
     </td>
     <td style="border: none; vertical-align: top;">
