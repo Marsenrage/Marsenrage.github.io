@@ -14,6 +14,17 @@ Throughout my Ph.D. journey, I have made significant contributions to the field 
 # Selected Publications
 
 
+<table>
+  <tr>
+    <td width="150">
+      <img src="/images/intention.gif" alt="My Image" width="150"/>
+    </td>
+    <td>
+      This is the text that appears next to the image on the right.  
+      You can write multiple lines here describing the image or providing related content.
+    </td>
+  </tr>  
+</table>
 
 
 
