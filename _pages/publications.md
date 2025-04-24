@@ -8,6 +8,22 @@ author_profile: true
 ## Peer-Reviewed Conference Papers
 
 <table style="border-collapse: collapse; border: none;">
+
+  <tr>
+    <td width="210">
+      <img src="/images/icra25.jpg" alt="icra2025" width="200">
+    </td>
+    <td style="border: none; vertical-align: top; font-size: 16px;">
+      <strong>Towards Neurorobotic Interface for Finger Joint Angle Estimation: A Multi-Stage CNN-LSTM Network with Transfer Learning.
+      </strong><br>
+      Yun Chen, Xinyu Zhang, <strong>Hui Li</strong>, Hongsheng He, Qiang Zhang.<br>
+      IEEE International Conference on Robotics and Automation (<strong>ICRA</strong> 2025)<br>      
+      Visit the [<a href="/files/ICRA25.pdf" download>Paper</a>] for more information. <br>
+    </td>
+  </tr>
+
+
+
   <tr>
     <td width="210">
       <img src="/images/handover.gif" alt="Handover" width="200">
@@ -22,7 +38,7 @@ author_profile: true
 
   <tr>
     <td width="210">
-      <img src="/images/a_icsr2024.jpg" alt="Handover" width="200">
+      <img src="/images/a_icsr2024.jpg" alt="a_icsr2024" width="200">
     </td>
     <td style="border: none; vertical-align: top; font-size: 16px;">
       <strong>Omnisurface: Common Reality for Intuitive Human-Robot Collaboration</strong><br>
@@ -48,7 +64,7 @@ author_profile: true
 <table style="border-collapse: collapse; border: none;">
   <tr>
     <td width="210">
-      <img src="/images/tran_icsr2023.jpg" alt="Handover" width="200">
+      <img src="/images/tran_icsr2023.jpg" alt="tran_icsr2023" width="200">
     </td>
     <td style="border: none; vertical-align: top; font-size: 16px;">
       <strong>AI planning from natural-language instructions for trustworthy human-robot communication.</strong><br>
