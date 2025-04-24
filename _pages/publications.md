@@ -60,6 +60,21 @@ author_profile: true
     </td>
   </tr>
 
+  <tr>
+    <td width="210">
+      <img src="/images/icsr18.jpg" alt="icsr18" width="200">
+    </td>
+    <td style="border: none; vertical-align: top; font-size: 16px;">
+      <strong>MagicHand: In-Hand Perception of Object Characteristics for Dexterous Manipulation
+      </strong><br>
+      <strong>Hui Li</strong>, Yimesker Yihun, and Hongsheng He<br>
+      International Conference on Social Robotics (ICSR 2018)<br>      
+      Visit the [<a href="/files/ICRA2018.pdf" download>Paper</a>] for more information. <br>
+    </td>
+  </tr>
+
+
+
 
 
 </table>
