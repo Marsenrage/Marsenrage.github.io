@@ -28,7 +28,7 @@ Throughout my Ph.D. journey, I have made significant contributions to the field 
 
   <tr>
     <td width="210">
-      <img src="/images/humanoid.jpg" alt="Handover" width="200">
+      <img src="/images/human.jpg" alt="humanoid" width="200">
     </td>
     <td style="border: none; vertical-align: top; font-size: 16px;">
       <strong>Knowledge Augmentation and Task Planning in Large Language Models for Dexterous Grasping</strong><br>
