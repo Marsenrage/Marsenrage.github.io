@@ -15,8 +15,8 @@ Throughout my Ph.D. journey, I have made significant contributions to the field 
 
 <table style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="200">
-      <img src="/images/handover.gif" alt="Handover" width="150">
+    <td width="210">
+      <img src="/images/handover.gif" alt="Handover" width="200">
     </td>
     <td style="border: none; vertical-align: top;">
       <strong>Grasp Intention Interpretation in Object Handover for Human-Robot Teaming</strong><br>
