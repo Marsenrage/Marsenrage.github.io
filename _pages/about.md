@@ -18,7 +18,7 @@ Throughout my Ph.D. journey, I have made significant contributions to the field 
     <td width="210">
       <img src="/images/handover.gif" alt="Handover" width="200">
     </td>
-    <td style="border: none; vertical-align: top; font-size: 14px;">
+    <td style="border: none; vertical-align: top; font-size: 16px;">
       <strong>Grasp Intention Interpretation in Object Handover for Human-Robot Teaming</strong><br>
       <strong>Hui Li</strong>, Akhlak Uz Zaman, and Hongsheng He <br>
       International Conference on Social Robotics (ICSR 2024)<br>      
@@ -30,7 +30,7 @@ Throughout my Ph.D. journey, I have made significant contributions to the field 
     <td width="210">
       <img src="/images/icra2021.gif" alt="icra2021" width="200">
     </td>
-    <td style="border: none; vertical-align: top; font-size: 14px;">
+    <td style="border: none; vertical-align: top; font-size: 16px;">
       <strong>Learning Task-Oriented Dexterous Grasping from Human Knowledge
       </strong><br>
       <strong>Hui Li</strong>, Yinlong Zhang, Yanan Li, and Hongsheng He <br>
@@ -43,7 +43,7 @@ Throughout my Ph.D. journey, I have made significant contributions to the field 
     <td width="210">
       <img src="/images/icra2020.jpg" alt="icra2020" width="200">
     </td>
-    <td style="border: none; vertical-align: top; font-size: 14px;">
+    <td style="border: none; vertical-align: top; font-size: 16px;">
       <strong>MagicHand: Context-Aware Dexterous Grasping Using an Anthropomorphic Robotic Hand
       </strong><br>
       <strong>Hui Li</strong>, Jindong Tan and Hongsheng He<br>
