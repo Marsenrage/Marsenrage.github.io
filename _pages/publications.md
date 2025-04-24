@@ -33,6 +33,31 @@ author_profile: true
   </tr>
 
 
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="210">
+      <img src="/images/dang_icsr2023.jpg" alt="Handover" width="200">
+    </td>
+    <td style="border: none; vertical-align: top; font-size: 16px;">
+      <strong>AI planning from natural-language instructions for trustworthy human-robot communication.</strong><br>
+      Dang Tran, <strong>Hui Li</strong>, and Hongsheng He <br>
+      International Conference on Social Robotics (<strong>ICSR</strong> 2023)<br>      
+      Visit the [<a href="/files/dang_icsr2023.pdf" download>Paper</a>] for more information. <br>
+    </td>
+  </tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
   <tr>
     <td width="210">
       <img src="/images/icra2021.gif" alt="icra2021" width="200">
