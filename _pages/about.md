@@ -28,7 +28,7 @@ Throughout my Ph.D. journey, I have made significant contributions to the field 
 
   <tr>
     <td width="210">
-      <img src="/images/humanoid.jpg" alt="humanoid" width="200">
+      <img src="/images/h1.jpg" alt="humanoid" width="200">
     </td>
     <td style="border: none; vertical-align: top; font-size: 16px;">
       <strong>Knowledge Augmentation and Task Planning in Large Language Models for Dexterous Grasping</strong><br>
@@ -47,7 +47,7 @@ Throughout my Ph.D. journey, I have made significant contributions to the field 
       <strong>Learning Task-Oriented Dexterous Grasping from Human Knowledge
       </strong><br>
       <strong>Hui Li</strong>, Yinlong Zhang, Yanan Li, and Hongsheng He <br>
-      IEEE International Conference on Robotics and Automation (ICSR 2021)<br>      
+      IEEE International Conference on Robotics and Automation (ICRA 2021)<br>      
       Visit the [<a href="/files/ICRA2021.pdf" download>Paper</a>] for more information. <br>
     </td>
   </tr>
@@ -61,7 +61,7 @@ Throughout my Ph.D. journey, I have made significant contributions to the field 
       <strong>MagicHand: Context-Aware Dexterous Grasping Using an Anthropomorphic Robotic Hand
       </strong><br>
       <strong>Hui Li</strong>, Jindong Tan and Hongsheng He<br>
-      IEEE International Conference on Robotics and Automation (ICSR 2020)<br>      
+      IEEE International Conference on Robotics and Automation (ICRA 2020)<br>      
       Visit the [<a href="/files/ICRA2020.pdf" download>Paper</a>] for more information. <br>
     </td>
   </tr>
