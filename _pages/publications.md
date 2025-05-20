@@ -5,6 +5,22 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Peer-Reviewed Journal Papers
+
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="210">
+      <img src="/images/pull.gif" alt="Handover" width="200">
+    </td>
+    <td style="border: none; vertical-align: top; font-size: 16px;">
+      <strong>Task-Oriented Grasping Using Reinforcement Learning with a Contextual Reward Machine</strong><br>
+      <strong>Hui Li</strong>, Akhlak Uz Zaman, Fujian Yan and Hongsheng He <br>
+      IEEE Transactions on SMC: Systems (Underview)<br>      
+      Visit the [<a href="/files/crm.pdf" download>Paper</a>] for more information. <br>
+    </td>
+  </tr>
+</table>
+
 ## Peer-Reviewed Conference Papers
 
 <table style="border-collapse: collapse; border: none;">
