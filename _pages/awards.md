@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Award&Teaching"
+title: "Award & Teaching"
 permalink: /awards/
 author_profile: true
 ---
