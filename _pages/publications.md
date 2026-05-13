@@ -15,8 +15,7 @@ author_profile: true
     <td style="border: none; vertical-align: top; font-size: 16px;">
       <strong>Physically Structured Policy Learning for Contact-Rich Dexterous Manipulation</strong><br>
       <strong>Hui Li</strong>, Akhlak Uz Zaman, Fujian Yan and Hongsheng He <br>
-      EEE Robotics and Automation Letters (RA-L) (Underview)<br>      
-      
+      IEEE Robotics and Automation Letters (RA-L) (Underview)<br>  
     </td>
   </tr>
 </table>
