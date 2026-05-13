@@ -18,11 +18,11 @@ main:
   - title: "Datasets"
     url: /datasets/    
 
-  - title: "Awards"
+  - title: "Awards/Teaching"
     url: /awards/
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Demos"
+    url: /Demos/    
     
   # - title: "CV"
   #   url: /cv-json/
