@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Demos"
-permalink: /Demos/
+permalink: /Demo/
 author_profile: true
 ---
 
