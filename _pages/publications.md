@@ -13,10 +13,10 @@ author_profile: true
       <img src="/images/pull.gif" alt="Handover" width="200">
     </td>
     <td style="border: none; vertical-align: top; font-size: 16px;">
-      <strong>Task-Oriented Grasping Using Reinforcement Learning with a Contextual Reward Machine</strong><br>
+      <strong>Physically Structured Policy Learning for Contact-Rich Dexterous Manipulation</strong><br>
       <strong>Hui Li</strong>, Akhlak Uz Zaman, Fujian Yan and Hongsheng He <br>
-      IEEE Transactions on SMC: Systems (Underview)<br>      
-      Visit the [<a href="/files/crm.pdf" download>Paper</a>] for more information. <br>
+      EEE Robotics and Automation Letters (RA-L) (Underview)<br>      
+      
     </td>
   </tr>
 </table>
