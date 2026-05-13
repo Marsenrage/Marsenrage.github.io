@@ -1,10 +1,11 @@
 ---
 layout: archive
-title: "Award"
+title: "Award&Teaching"
 permalink: /awards/
 author_profile: true
 ---
 
+## Award
 
 - Travel Award at IEEE International Conference on Robotics and Automation (ICRA), 2020, 2021, and 2025.  
 - Travel Award at 22nd IEEE International Conference on Humanoid Robots, 2023.  
@@ -15,7 +16,17 @@ author_profile: true
 - Travel Award at IEEE International Conference on Robotics and Biomimetics, 2019.  
 - Travel Award at International Conference on Social Robotics (ICSR), 2018 and 2024.  
 
+## Courses
 
+- Advanced AI in Robotics, Spring 2019, Wichita State University  
+- AI in Robotics, Fall 2018, Wichita State University  
+- Programming Languages, Spring 2018, Wichita State University  
+
+## Pre-doctoral student mentoring
+
+- Dang Tran, 2021-2023, Undergraduate at Wichia State Uinversity → PhD at University of Alabama  
+- Liqiao Zhu, 2021, MS at Wichia State Uinversity → Reliability Engineer at Antwork Technology
+- Bharath Rao, 2020, MS at Wichia State Uinversity → Senior engineer at Spirit AeroSystems  
 
 
 
