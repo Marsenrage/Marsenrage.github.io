@@ -23,9 +23,10 @@ repository               : "Marsenrage/Marsenrage.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Hui Li"
+  name             : "Hui Li, Ph.D."
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. candidate, Department of Computer Science, University of Alabama"
+  bio              : "Robotics Researcher  
+                      Dexterous Manipulation | Sim-to-Real Robot Learning"
   location         : #"Tuscaloosa, AL"
   employer         : #"The University of Alabama"
   uri              : # URL
