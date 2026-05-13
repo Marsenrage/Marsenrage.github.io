@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-As a Ph.D. candidate in Computer Science at the University of Alabama, I am conducting research under my advisor, [Hongsheng He](https://eng.ua.edu/eng-directory/dr-hongsheng-he/). My research lies in intelligent robots, with an emphasis on developing context-aware, task-oriented frameworks that leverage reinforcement learning to improve the adaptability, efficiency, and robustness of robotic grasping and manipulation in unstructured environments.
+I am a robotics researcher specializing in physically grounded robot learning for contact-rich dexterous manipulation. My work focuses on sim-to-real reinforcement learning, tactile and multimodal perception, and real-time robotic systems that remain reliable under real-world contact.
 
-Throughout my Ph.D. journey, I have made significant contributions to the field of robot learning and manipulation, as evidenced by my publications in top-tier conferences such as ICRA, Humanoids, and ICSR. My work has also been supported by the [NSF I-Corps](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2211149&HistoricalAwards=false) program for commercialization, where I served as the entrepreneurial lead, focusing on market investigation and prototype development.
+I received my Ph.D. in Computer Science from the University of Alabama, where I worked with [Dr. Hongsheng He](https://eng.ua.edu/eng-directory/dr-hongsheng-he/) in the Autonomous Robotics Lab. During my Ph.D., I built DexMobile, a 40-DoF bimanual mobile manipulation platform integrating dual robotic arms, dexterous hands, tactile sensing, vision-based pose tracking, and real-time ROS 2 control. The system achieved 83% real-world grasp success across 500+ hardware trials and 88% sim-to-real transfer.
+
+I also developed Physically Structured Policy Learning (PSPL), a framework that structures policy learning around contact physics to improve exploration, efficiency, and reliability in manipulation tasks. My research has been published in venues including ICRA, Humanoids, and ICSR, and my work has been supported by the [NSF I-Corps](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2211149&HistoricalAwards=false) program for technology commercialization.
 
 # Selected Publications
 
@@ -20,10 +22,9 @@ Throughout my Ph.D. journey, I have made significant contributions to the field 
       <img src="/images/pull.gif" alt="Handover" width="200">
     </td>
     <td style="border: none; vertical-align: top; font-size: 16px;">
-      <strong>Task-Oriented Grasping Using Reinforcement Learning with a Contextual Reward Machine</strong><br>
+      <strong>Physically Structured Policy Learning for Contact-Rich Dexterous Manipulation</strong><br>
       <strong>Hui Li</strong>, Akhlak Uz Zaman, Fujian Yan and Hongsheng He <br>
-      IEEE Transactions on SMC: Systems (Underview)<br>      
-      Visit the [<a href="/files/crm.pdf" download>Paper</a>] for more information. <br>
+      IEEE Robotics and Automation Letters (RA-L) (Underview)<br>      
     </td>
   </tr>
 
