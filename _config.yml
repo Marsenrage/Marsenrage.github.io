@@ -25,8 +25,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Hui Li, Ph.D."
   pronouns         : # example: "she/her"  
-  bio              : "Robotics Researcher  
-                      Dexterous Manipulation | Sim-to-Real Robot Learning"
+  bio              : "Robotics Researcher <br> Dexterous Manipulation | Sim-to-Real Robot Learning"
   location         : #"Tuscaloosa, AL"
   employer         : #"The University of Alabama"
   uri              : # URL
